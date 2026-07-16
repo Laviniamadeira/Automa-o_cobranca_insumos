@@ -8,5 +8,6 @@ function onOpen() {
     .addItem('⚠️ Disparar E-mails (SEMANAL)', 'dispararSemanal')
     .addSeparator()
     .addItem('🧪 Teste Aleatório (MENSAL)', 'dispararTesteMensal')
+    .addItem('🧪 Teste Aleatório (SEMANAL)', 'dispararTesteSemanal')
     .addToUi();
 }
