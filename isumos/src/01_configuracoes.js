@@ -3,8 +3,9 @@
  * PROJETO: Automação de Faturamento e Cobrança com Google Apps Script
  * AUTORA: Lavínia Madeira
  *
- * OBS: Dados sensíveis (e-mails internos, IDs de arquivos, nome da empresa)
- * foram substituídos por valores genéricos para fins de portfólio.
+ * OBS: Dados sensíveis (e-mails internos, IDs de arquivos, nome da empresa,
+ * link do formulário) foram substituídos por valores genéricos para fins
+ * de portfólio.
  * ==============================================================================
  */
 
